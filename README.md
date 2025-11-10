@@ -2,6 +2,6 @@
 
 <div align="center">
 
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/virinodelaspaco)</a>
+  <a href="">[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/virinodelaspaco)</a>
   
 </div>
