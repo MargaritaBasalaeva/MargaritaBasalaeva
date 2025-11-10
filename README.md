@@ -1,5 +1,5 @@
 ### <p align="center"> Привет, меня зовут Маргарита 🪐</p>
-<img align="right" src="https://github.com/MargaritaBasalaeva/MargaritaBasalaeva/blob/main/delivery_girl.gif" width="300">
+<img align="right" src="https://github.com/MargaritaBasalaeva/MargaritaBasalaeva/blob/main/delivery_girl.gif" width="250" height = "250">
 
 
 ### Чей же GitHub Вы посетили?🧐
